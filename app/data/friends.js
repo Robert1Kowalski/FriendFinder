@@ -29,7 +29,7 @@ var friends = [{
     "scores": [3, 3, 4, 1, 4, 3, 5, 3, 5, 4]
 },
 {
-    "name": "Sonneth The Swift",
+    "name": "Taylor Swift",
     "photo": "http://www.billboard.com/files/styles/article_main_image/public/stylus/1235529-taylor-swift-woman-of-the-year-617-409.jpg",
     "scores": [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
 }
